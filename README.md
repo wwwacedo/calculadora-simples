@@ -3,7 +3,7 @@
 <h6>Projeto desenvolvido para a FIAP <br>Curso: Engenharia de Software<br> (1ESO - 2/2022)
 </h6>
 
-<img src="./screenshot.png" height="200">
+<img src="./screenshot.png" height="400">
 </center>
 
 <br>

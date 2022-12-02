@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+* {
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 1px;
+}
+
+body {
+    background-image: url(./back-calc.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.my-container {
+    margin-top: 2%;
+    padding: 1% 2%;
+    width: 550px;
+}
+
+.row p {
+    min-height: 70px;
+    padding: 15px;
+}
+
+button {
+    width: 100%;
+    margin: 2% 0;
+}
